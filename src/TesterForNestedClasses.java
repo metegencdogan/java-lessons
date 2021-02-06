@@ -1,7 +1,7 @@
 import nesteds.OuterClass;
 
 
-public class ClassTester {
+public class TesterForNestedClasses {
 
 
     public static void main(String[] args) {
